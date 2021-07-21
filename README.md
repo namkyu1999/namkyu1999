@@ -24,12 +24,3 @@
 <p align="center">
 <a href="https://trialxxerror.medium.com"><img src="https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=Medium&logoColor=white&link=https://trialxxerror.medium.com"/></a>
 </p>
-
-<br/>
-<br/>
-<h3 align="center">Projects</h3>
-<p align="center">
-  <a href=https://github.com/osamhack2020/WEB_CodeSquare_AmongUs><strong>CodeSquare</strong></a><br/>
-  <a href=https://github.com/namkyu1999/animated_appbar><strong>Animated AppBar</strong></a><br/>
-</p>
-
