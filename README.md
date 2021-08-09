@@ -22,3 +22,6 @@
 - Blog
   * [flutterbased.studio](https://flutterbased.studio)
   * [Medium](https://trialxxerror.medium.com)
+
+- Contact
+  * lak9348@gmail.com
