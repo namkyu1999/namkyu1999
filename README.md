@@ -1,26 +1,22 @@
-<p align="center">
-  <h2 align="center">
-    Visit <a href=https://flutterbased.studio>my personal portfolio website</a>
-  </h2>
-</p>
+# Namkyu Park @namkyu1999
 
+#### Republic of Korea NAVY software engineer
 
-<br/>
-<br/>
-<h3 align="center">What I can Do<h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Flutter-2196F3?style=flat-square&logo=Flutter&logoColor=white"/></a>
-<br/>
-<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>
+- Awards
+  * 2020 국방 오픈소스 해커톤 - 정보통신산업진흥원장상
+  * 2021 해군 창업 경진대회 입상
+  * 2021 국방 스타트업 챌린지 본선 진출
+  * 2021 오픈소스 컨트리뷰션 아카데미 - 진행중
 
-</p>
+- Maintainer of
+  * Pick A Boo => Coming soon..!
+  * [flutterbased.studio](https://flutterbased.studio)
+  * [animated_appbar](https://github.com/namkyu1999/animated_appbar)
+  * [CodeSquare](https://github.com/osamhack2020/WEB_CodeSquare_AmongUs)
+  
+- Contributor of
+  * [fosslight](https://github.com/fosslight/fosslight)
 
-<br/>
-<br/>
-<h3 align="center">Visit my Blog</h3>
-<p align="center">
-<a href="https://trialxxerror.medium.com"><img src="https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=Medium&logoColor=white&link=https://trialxxerror.medium.com"/></a>
-</p>
+- Blog
+  * [flutterbased.studio](https://flutterbased.studio)
+  * [Medium](https://trialxxerror.medium.com)
