@@ -12,7 +12,7 @@
   * 2021 오픈소스 컨트리뷰션 아카데미 - 진행중
 
 - Maintainer of
-  * Pick A Boo => Coming soon..!
+  * [Pick A Boo](https://apps.apple.com/kr/app/피커부/id1579262753)
   * [flutterbased.studio](https://flutterbased.studio)
   * [animated_appbar](https://github.com/namkyu1999/animated_appbar)
   * [CodeSquare](https://github.com/osamhack2020/WEB_CodeSquare_AmongUs)
