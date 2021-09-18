@@ -16,6 +16,7 @@
   * [flutterbased.studio](https://flutterbased.studio)
   * [animated_appbar](https://github.com/namkyu1999/animated_appbar)
   * [CodeSquare](https://github.com/osamhack2020/WEB_CodeSquare_AmongUs)
+  * [rust-gomoku](https://github.com/namkyu1999/rust-gomoku)
   
 - Contributor of
   * [fosslight](https://github.com/fosslight/fosslight)
