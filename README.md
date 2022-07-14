@@ -3,7 +3,8 @@
 #### [이력서 | Resume](https://www.namkyu.codes/)
 
 - Career
-  * 오늘의집(버킷플레이스) 인턴 : 2022.02 ~
+  * 2022.07 ~          | Sidewalk Ent. 백엔드 엔지니어
+  * 2022.02 ~ 2022.06  | 오늘의집(버킷플레이스) 데이터 엔지니어 인턴
 
 - Experiences & Awards
   * 2021 [해, 커리어] 채용 연계형 해커톤 - 온라인 예선 진출
@@ -28,7 +29,6 @@
   * [fosslight](https://github.com/fosslight/fosslight)
 
 - Blog
-  * [flutterbased.studio](https://flutterbased.studio)
   * [Medium](https://trialxxerror.medium.com)
 
 - Contact
