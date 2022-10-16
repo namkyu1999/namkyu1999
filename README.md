@@ -1,7 +1,7 @@
 # Namkyu Park @namkyu1999
 
 - Career
-  * 2022.02 ~ 2022.06  | 오늘의집(버킷플레이스) 데이터 엔지니어 인턴
+  * 2022.02 ~ 2022.06  | Software Engineer Intern, Data at Bucketplace (오늘의집)
     - Launching CRM Platform for Marketing Team.
         - Based on the feedback of the senior developer, the entire process of design, development, distribution, and operation of the project was carried out from the initial planning stage of the project.
         - Used Kotlin based Spring and TypeScript based React
