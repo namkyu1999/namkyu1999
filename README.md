@@ -1,10 +1,13 @@
 # Namkyu Park @namkyu1999
 
-#### [이력서 | Resume](https://www.namkyu.codes/)
-
 - Career
-  * 2022.07 ~          | Sidewalk Ent. 백엔드 엔지니어
   * 2022.02 ~ 2022.06  | 오늘의집(버킷플레이스) 데이터 엔지니어 인턴
+    - Launching CRM Platform for Marketing Team.
+        - Based on the feedback of the senior developer, the entire process of design, development, distribution, and operation of the project was carried out from the initial planning stage of the project.
+        - Used Kotlin based Spring and TypeScript based React
+        - Managed test coverage through Jacoco.
+        - Batch work was performed by scheduling through Quartz.
+        - CI/CD pipeline was built with Github actions, and Log dashboard was created and managed with Data Dog.
 
 - Experiences & Awards
   * 2021 [해, 커리어] 채용 연계형 해커톤 - 온라인 예선 진출
@@ -18,7 +21,6 @@
   * 2019 건국대학교(서울) 컴퓨터 공학과 재학
 
 - Maintainer of
-  * [Pick A Boo](https://apps.apple.com/kr/app/%ED%94%BC%EC%BB%A4%EB%B6%80/id1579262753#?platform=iphone)
   * [ToGather](https://github.com/wouldyou-in/ToGather)
   * [flutterbased.studio](https://flutterbased.studio)
   * [animated_appbar](https://github.com/namkyu1999/animated_appbar)
@@ -30,6 +32,7 @@
 
 - Blog
   * [Medium](https://trialxxerror.medium.com)
+  * [LinkedIn](www.linkedin.com/in/namkyupark1999)
 
 - Contact
   * lak9348@gmail.com
