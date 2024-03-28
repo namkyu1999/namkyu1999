@@ -20,4 +20,4 @@ Namkyu Park is a Software Developer working for promoting startups to complete t
 - **[Strategies for Writing More Effective Tests in Golang](https://dev.to/litmus-chaos/strategies-for-writing-more-effective-tests-in-golang-1fma)** in Litmus Blog
 
 ## Presentations
-TBA
+- [Open Source in Go](https://www.youtube.com/live/WZthMW0BaNA?feature=shared&t=3576), GopherCon Korea 2023
