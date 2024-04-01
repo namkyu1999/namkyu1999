@@ -16,8 +16,9 @@ Namkyu Park is a Software Developer working for promoting startups to complete t
 </p>
 
 ## Featured Blog Posts
-- **[My LFX mentorship journey: the best starting point for contributing to open source](https://www.cncf.io/blog/2023/05/30/my-lfx-mentorship-journey-the-best-starting-point-for-contributing-to-open-source/)** in CNCF Blog
-- **[Strategies for Writing More Effective Tests in Golang](https://dev.to/litmus-chaos/strategies-for-writing-more-effective-tests-in-golang-1fma)** in Litmus Blog
+- **[Elevating system resilience: leveraging LitmusChaos and Backstage integration](https://www.cncf.io/blog/2024/04/01/elevating-system-resilience-leveraging-litmuschaos-and-backstage-integration/)**, CNCF Blog
+- **[My LFX mentorship journey: the best starting point for contributing to open source](https://www.cncf.io/blog/2023/05/30/my-lfx-mentorship-journey-the-best-starting-point-for-contributing-to-open-source/)**, CNCF Blog
+- **[Strategies for Writing More Effective Tests in Golang](https://dev.to/litmus-chaos/strategies-for-writing-more-effective-tests-in-golang-1fma)**, Litmus Blog
 
 ## Presentations
 - [Open Source in Go](https://www.youtube.com/live/WZthMW0BaNA?feature=shared&t=3576), GopherCon Korea 2023
