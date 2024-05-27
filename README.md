@@ -18,6 +18,7 @@ Namkyu Park is a [CNCF Ambassador](https://www.credly.com/badges/b27b7991-ec67-4
 ## Featured Blog Posts
 - **[Elevating system resilience: leveraging LitmusChaos and Backstage integration](https://www.cncf.io/blog/2024/04/01/elevating-system-resilience-leveraging-litmuschaos-and-backstage-integration/)**, CNCF Blog
 - **[My LFX mentorship journey: the best starting point for contributing to open source](https://www.cncf.io/blog/2023/05/30/my-lfx-mentorship-journey-the-best-starting-point-for-contributing-to-open-source/)**, CNCF Blog
+- **[Introduction to k6 Load Chaos in LitmusChaos](https://dev.to/litmus-chaos/introduction-to-k6-load-chaos-in-litmuschaos-4l2k)**, Litmus Blog
 - **[Strategies for Writing More Effective Tests in Golang](https://dev.to/litmus-chaos/strategies-for-writing-more-effective-tests-in-golang-1fma)**, Litmus Blog
 
 ## Presentations
