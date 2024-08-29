@@ -22,5 +22,5 @@ Namkyu Park is a [CNCF Ambassador](https://www.cncf.io/people/ambassadors/?p=nam
 - **[Strategies for Writing More Effective Tests in Golang](https://dev.to/litmus-chaos/strategies-for-writing-more-effective-tests-in-golang-1fma)**, Litmus Blog
 
 ## Presentations
-- [What if Your System Experiences an Outage? Let's Build a Resilient Systems with Chaos Engineering](https://sched.co/1eYaZ), KubeCon China 2024
+- [What if Your System Experiences an Outage? Let's Build a Resilient Systems with Chaos Engineering](https://youtu.be/3mjGEh905u4?feature=shared), KubeCon China 2024
 - [From Novice to LitmusChaos Maintainer: Learn to Make Valuable Contributions to LitmusChaos](https://community.cncf.io/events/details/cncf-virtual-project-events-2024-hosted-by-cncf-presents-litmuschaoscon-virtual/), LitmusChaosCon 2024
