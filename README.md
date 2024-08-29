@@ -4,17 +4,6 @@ Namkyu Park is a [CNCF Ambassador](https://www.cncf.io/people/ambassadors/?p=nam
 
 **[Contact](mailto:lak9348@gmail.com)** | **[LinkedIn](https://www.linkedin.com/in/namkyupark1999)** | **[Credly](https://www.credly.com/users/namkyu-park.b80fffaf/badges)** | **[Dev.to](https://dev.to/namkyu1999)** | **[Medium](https://medium.com/@loyle)** | **[Blog](https://namkyu1999.github.io/)**
 
-<p>
-  <img width="10%" src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg">
-  <img width="10%" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg">
-  <br />
-  <img width="10%" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg">
-  <img width="10%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg">
-  <br />
-  <img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
-  <img width="10%" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg">
-</p>
-
 ## Featured Blog Posts
 - **[Elevating system resilience: leveraging LitmusChaos and Backstage integration](https://www.cncf.io/blog/2024/04/01/elevating-system-resilience-leveraging-litmuschaos-and-backstage-integration/)**, CNCF Blog
 - **[My LFX mentorship journey: the best starting point for contributing to open source](https://www.cncf.io/blog/2023/05/30/my-lfx-mentorship-journey-the-best-starting-point-for-contributing-to-open-source/)**, CNCF Blog
@@ -24,3 +13,9 @@ Namkyu Park is a [CNCF Ambassador](https://www.cncf.io/people/ambassadors/?p=nam
 ## Presentations
 - [What if Your System Experiences an Outage? Let's Build a Resilient Systems with Chaos Engineering](https://youtu.be/3mjGEh905u4?feature=shared), KubeCon China 2024
 - [From Novice to LitmusChaos Maintainer: Learn to Make Valuable Contributions to LitmusChaos](https://community.cncf.io/events/details/cncf-virtual-project-events-2024-hosted-by-cncf-presents-litmuschaoscon-virtual/), LitmusChaosCon 2024
+
+## Badges
+<img alt="speaker-kubecon-cloudnativecon-open-source-summit-a 1" src="https://github.com/user-attachments/assets/afe5dae5-711a-4fed-b874-aa618e2af106" width="200">
+<img alt="cncf-ambassador-h1-2024" src="https://github.com/user-attachments/assets/6842f633-5f40-4935-b7de-601a74bb6d84" width="200">
+<img alt="organizer-cloud-native-sustainability-week" src="https://github.com/user-attachments/assets/a42f199f-32d1-4a87-bfdf-62a0cb4cb556" width="200">
+<img alt="" src="https://github.com/user-attachments/assets/ec4f3392-de87-43b9-b308-89c538a61b95" width="200">
