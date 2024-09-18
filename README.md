@@ -15,6 +15,7 @@ Namkyu Park is a [CNCF Ambassador](https://www.cncf.io/people/ambassadors/?p=nam
 - [From Novice to LitmusChaos Maintainer: Learn to Make Valuable Contributions to LitmusChaos](https://community.cncf.io/events/details/cncf-virtual-project-events-2024-hosted-by-cncf-presents-litmuschaoscon-virtual/), LitmusChaosCon 2024
 
 ## Badges
+<img alt="speaker-kubecon-cloudnativecon-open-source-summit-a 1" src="https://github.com/user-attachments/assets/99d9928e-c4db-47f2-8923-4b318c1c57ac" width="200">
 <img alt="speaker-kubecon-cloudnativecon-open-source-summit-a 1" src="https://github.com/user-attachments/assets/afe5dae5-711a-4fed-b874-aa618e2af106" width="200">
 <img alt="cncf-ambassador-h1-2024" src="https://github.com/user-attachments/assets/6842f633-5f40-4935-b7de-601a74bb6d84" width="200">
 <img alt="organizer-cloud-native-sustainability-week" src="https://github.com/user-attachments/assets/a42f199f-32d1-4a87-bfdf-62a0cb4cb556" width="200">
