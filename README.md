@@ -12,7 +12,7 @@ Namkyu Park is a [CNCF Ambassador](https://www.cncf.io/people/ambassadors/?p=nam
 
 ## Presentations
 - [What if Your System Experiences an Outage? Let's Build a Resilient Systems with Chaos Engineering](https://youtu.be/3mjGEh905u4?feature=shared), KubeCon China 2024
-- [From Novice to LitmusChaos Maintainer: Learn to Make Valuable Contributions to LitmusChaos](https://community.cncf.io/events/details/cncf-virtual-project-events-2024-hosted-by-cncf-presents-litmuschaoscon-virtual/), LitmusChaosCon 2024
+- [From Novice to LitmusChaos Maintainer: Learn to Make Valuable Contributions to LitmusChaos](https://youtu.be/f9PQjaj8P94?feature=shared), LitmusChaosCon 2024
 
 ## Badges
 <img alt="speaker-kubecon-cloudnativecon-open-source-summit-a 1" src="https://github.com/user-attachments/assets/99d9928e-c4db-47f2-8923-4b318c1c57ac" width="200">
